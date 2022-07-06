@@ -1,9 +1,11 @@
 *{
     margin: 0;
     padding: 0;
+}
+body{
     font-family: 'Poppins', sans-serif;
     font-family: 'Red Hat Display', sans-serif;
-
+    
 }
 h1{
     font-size: 70px;
@@ -116,4 +118,21 @@ input {
 }
 .education{
     background-color:rgba(230, 211, 104, 0.555) ;
+}
+.need-survive{
+    display: flex;
+    text-align: center;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    width: 80%;
+}
+.half-width{
+    width: 50%;
+    height: auto;
+    border: 1px solid red;
+}
+.survive-para{
+    margin-top: 30px;
+    margin-bottom: 30px;
 }
