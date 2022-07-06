@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: 'Mulish', sans-serif;
+    font-family: 'Poppins', sans-serif;
+}
+.banner{
+    text-align: center;
+    align-items: center;
+    margin: auto;
+    background-image: url(/images/images/donation2.jpg);
+    background-repeat: no-repeat;
+    height: 100%;
+    width: 100%;
+}
