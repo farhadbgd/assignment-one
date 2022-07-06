@@ -10,6 +10,11 @@ h1{
     font-weight: 600;
     color: #db3604d8;
 }
+h2{
+    font-size: 60px;
+    font-weight: 600;
+    color: #db3604d8;
+}
 p{
     font-size: 50px;
     font-weight: 400; 
@@ -35,4 +40,43 @@ p{
     font-weight: 600;
     border: none;
     border-radius: 5%;
+}
+.dnt-today{
+    height: auto;
+    width: 75%;
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+}
+.amount-group{
+    display: flex;
+}
+.dnt-amount{
+    
+    text-align: center;
+    justify-content: center;
+    align-items: center;
+    margin: auto;
+    font-size: 35px;
+    padding: 25px 20px;
+    border: 1px solid rgb(161, 132, 132);
+
+}
+.dnt-amount:hover{
+    background-color:antiquewhite;
+}
+.input-div{
+    margin-top: 25px;
+    margin-bottom: 25px;
+}
+input {
+    outline: 0;
+    border-width: 0 0 2px;
+    border-color:#dadada;
+    height: 55px; 
+    width:100%; 
+    text-align: center;
+    font-size: 35px;
+    
 }
