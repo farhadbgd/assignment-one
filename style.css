@@ -72,7 +72,7 @@ p{
     margin-top: 25px;
     margin-bottom: 25px;
 }
-input {
+.input-amount {
     outline: 0;
     border-width: 0 0 2px;
     border-color:#dadada;
@@ -135,4 +135,24 @@ input {
 .survive-para{
     margin-top: 30px;
     margin-bottom: 30px;
+}
+.sub-section{
+    text-align: center;
+
+}
+
+.subcribe{
+    padding: 80px 20px;
+    width: 50%;
+    text-align: center;
+    align-items: center;
+    justify-items: center;
+    margin: auto;
+    background: #FFF4D6;
+    
+}
+.subcribe-input{
+    font-size: 45px;
+    padding: 20px 18px;
+    border: none;
 }
