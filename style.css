@@ -18,7 +18,7 @@ h2{
     color: #db3604d8;
 }
 p{
-    font-size: 50px;
+    font-size: 45px;
     font-weight: 400; 
 }
 
@@ -131,7 +131,10 @@ p{
 .half-width{
     width: 50%;
     height: auto;
-    
+}
+.survive-img img{
+
+    width: 80%;
 }
 .survive-para{
     margin-top: 30px;
@@ -139,6 +142,8 @@ p{
 }
 .sub-section{
     text-align: center;
+    margin: auto;
+    width: 80%;
 
 }
 
@@ -162,7 +167,7 @@ footer{
     border: 1px solid black;
     text-align: center;
     background-color: rgb(70, 51, 51);
-    padding: 50px;
+    padding: 40px;
     width: 90%;
     align-items: center;
     justify-content: center;
